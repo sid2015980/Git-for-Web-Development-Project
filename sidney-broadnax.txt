@@ -51,8 +51,8 @@ https://codepen.io/sid201598/pen/MWwagVY?editors=1100
 
 Stretch Questions
 
-    1. What is the difference between an inline element and a block element?
-    2. What happens when an element is positioned absolutely? 
+    1. What is the difference between an inline element and a block element? An inline element works within a defined tag or section of the page. For example, an inline element can highlight a word within a paragraph and the rest of the words won't be affected. Block level elements force a space between elements by default, selecting a larger box of text. 
+    2. What happens when an element is positioned absolutely? It means that the element is positioned nearest to the positioned ancestor. If there is no nearest ancestor, the element will be positioned based on the body of the page. 
     3. How do I make an element take up only the amount of space it needs but also have the ability to give it a width? 
     4. Name 3 elements that are diplay block by default, 2 elements that are display inline by default and 1 element that is display inline-block by default
     5. In your own words, explain the box model. What is the fix for the box model?
